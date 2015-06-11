@@ -1,0 +1,9 @@
+{
+	"name": "GulpPlayground",
+	"version": "0.1.0",
+	"description": "A playground for Gulp.",
+	"dependencies": {
+        "gulp": "3.8.11",
+        "gulp-jshint": "1.11.0"
+	}
+}
